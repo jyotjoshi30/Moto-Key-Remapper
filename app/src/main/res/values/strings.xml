@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Moto Key Customizer</string>
+    <string name="accessibility_service_description">Lightweight utility to remap the Moto AI key.</string>
+</resources>
